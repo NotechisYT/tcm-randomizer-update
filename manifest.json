@@ -1,6 +1,6 @@
 {
  "version": 1,
- "published": "2026-10-20 03:05:47",
+ "published": "2026-10-20 03:41:01",
  "files": {
   "tcm_randomizer.pyw": {
    "sha256": "a864c24ca4ef8323513b5acde98714043312eb4851d7c71f07d762267af39cb6",
@@ -11,7 +11,7 @@
    "size": 21026
   },
   "vehicles.csv": {
-   "sha256": "cd8de3878cf09e666d54feb15feaaaa1f8eb3a972089e505d55082832c0e005d",
+   "sha256": "8c21110b8cb6553c8eb2f555b259131c0a8c085a4416b29f3e4a23235dd2847e",
    "size": 38528
   },
   "races.csv": {

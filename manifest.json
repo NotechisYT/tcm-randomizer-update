@@ -1,6 +1,6 @@
 {
- "version": 1,
- "published": "2026-10-22 22:06:17",
+ "version": 2,
+ "published": "2026-11-04 00:35:03",
  "files": {
   "tcm_randomizer.pyw": {
    "sha256": "a864c24ca4ef8323513b5acde98714043312eb4851d7c71f07d762267af39cb6",
@@ -11,8 +11,8 @@
    "size": 21026
   },
   "vehicles.csv": {
-   "sha256": "8c21110b8cb6553c8eb2f555b259131c0a8c085a4416b29f3e4a23235dd2847e",
-   "size": 38528
+   "sha256": "4722dc82325f7980ced63c1b49150c9a13fa37874db443034e814e9d2f98fcc4",
+   "size": 38589
   },
   "races.csv": {
    "sha256": "a23ec19b7f2dfde6c0b258b95ba147cb8dbfe7e0c517814a8e719ac32f864da1",
@@ -1489,6 +1489,10 @@
   "images/Harmon Rocket III (2018).png": {
    "sha256": "62e2fafa26955d633405bc42e43d9f5ae442692cc0497fb689bc7f0ccc4b3215",
    "size": 50075
+  },
+  "images/Hennessey Chevrolet Camaro ZL1 The Exorcist (2022).png": {
+   "sha256": "3c5c6d699fe46eb5fb2e5fcd1e37319ca71d22c7fc62c233ec4a52a2591dd69f",
+   "size": 56679
   },
   "images/Hennessey Venom F5 (2020).png": {
    "sha256": "94da9b165fe0add3809d9583eb80c2e8340b8235751d99d4333c6fa750a624d8",

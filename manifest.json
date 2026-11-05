@@ -1,6 +1,6 @@
 {
- "version": 2,
- "published": "2026-11-04 00:35:03",
+ "version": 3,
+ "published": "2026-11-05 02:24:34",
  "files": {
   "tcm_randomizer.pyw": {
    "sha256": "a864c24ca4ef8323513b5acde98714043312eb4851d7c71f07d762267af39cb6",
@@ -11,8 +11,8 @@
    "size": 21026
   },
   "vehicles.csv": {
-   "sha256": "4722dc82325f7980ced63c1b49150c9a13fa37874db443034e814e9d2f98fcc4",
-   "size": 38589
+   "sha256": "541734035d41b1c7e74d6f9c5fdf1e4b7cf0e009ba094240d0358e9bdd21d416",
+   "size": 38646
   },
   "races.csv": {
    "sha256": "a23ec19b7f2dfde6c0b258b95ba147cb8dbfe7e0c517814a8e719ac32f864da1",
@@ -1685,6 +1685,10 @@
   "images/Ivory Tower Ogmios Chase Squad Edition (2025).png": {
    "sha256": "55038d26a1f215b9d18fff88a7a85b623a57d1d7b887333d229b4f290e11e205",
    "size": 62551
+  },
+  "images/Ivory Tower Ogmios Radiant Edition (2025).png": {
+   "sha256": "b9cb195f00cf899b004c513c16b6c4157424c174a0a0575cfbe720b73ae8409e",
+   "size": 59225
   },
   "images/Ivory Tower Ogmios Rally Spec (2025).png": {
    "sha256": "5c7e647ececf7f28772f1d9134b4259f5d7b737d5193ddb3d2ac0ac29feb957e",

@@ -1,6 +1,6 @@
 {
- "version": 3,
- "published": "2026-11-05 02:24:34",
+ "version": 4,
+ "published": "2026-11-13 19:04:18",
  "files": {
   "tcm_randomizer.pyw": {
    "sha256": "a864c24ca4ef8323513b5acde98714043312eb4851d7c71f07d762267af39cb6",
@@ -11,8 +11,8 @@
    "size": 21026
   },
   "vehicles.csv": {
-   "sha256": "541734035d41b1c7e74d6f9c5fdf1e4b7cf0e009ba094240d0358e9bdd21d416",
-   "size": 38646
+   "sha256": "f6ab1f17739ff8ab3e8a590e2861aeeec99f6c2dae18161d2d5ce6c1f861315b",
+   "size": 38693
   },
   "races.csv": {
    "sha256": "a23ec19b7f2dfde6c0b258b95ba147cb8dbfe7e0c517814a8e719ac32f864da1",
@@ -517,6 +517,10 @@
   "images/Buick GNX West Side Lowrider Edition (1987).png": {
    "sha256": "fcc7c34d4b2826c99cfeb5751225c0556b8ee9cbeac0711dd372190a86dc4d15",
    "size": 63407
+  },
+  "images/Cadillac CT5-V Blackwing (2025).png": {
+   "sha256": "d4ccdba730a4912a896ebaf53e291f844e565c7589015ad4173ce250242dc022",
+   "size": 63474
   },
   "images/Cadillac Ciel Concept (2011).png": {
    "sha256": "1dc34680069cdcefaffa5da94fbe35f43f5a11ad3849c55dc8b1adfeb1a5f778",
